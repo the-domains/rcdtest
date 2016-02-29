@@ -1,7 +1,7 @@
 name: RCDTest
 favicon: null
-layout_spectrum: 0.9053023371379822
-typography_spectrum: 0.4073651130311191
+layout_spectrum: 0.99615
+typography_spectrum: 0.25655
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#FFFCE8'
     - '#3E363F'
     - '#DD403A'
-  brandStrength: 0.012814091285690665
+  brandStrength: 1
   lightness: 0.046803783159703016
-  saturation: 0.1563301756978035
+  saturation: 0.5
   rhythmicContrast: 0.5634292468894273
 purpose: []
